@@ -1,4 +1,4 @@
-const color = require("randomColor")();
+const color = require("randomcolor")();
 const name = require("./randomName");
 
 const app = require("express")();

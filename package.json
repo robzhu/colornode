@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A simple NodeJS application for testing load-balancers",
   "main": "main.js",
-  "type": "module",
   "dependencies": {
     "express": "^4.17.1",
     "randomcolor": "^0.5.4",
