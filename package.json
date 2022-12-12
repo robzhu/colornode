@@ -4,7 +4,7 @@
   "description": "A simple NodeJS application for testing load-balancers",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "randomcolor": "^0.5.4",
     "unique-names-generator": "^4.2.0"
   }
